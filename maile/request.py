@@ -1,4 +1,4 @@
 import requests
 
-x = requests.get('https://w3schools.com')
+x = requests.get('https://poczta.cyberfolks.pl')
 print(x.status_code)
